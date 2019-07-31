@@ -1,0 +1,94 @@
+﻿生成启动时间为 2019/7/28 10:59:49。
+     1>项目“F:\testCocos\csb2CsdWin\luaLib\luaLib.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt buflib.c lapi.c lauxlib.c lbaselib.c lbitlib.c lcode.c lcorolib.c lctype.c ldblib.c ldebug.c ldo.c ldump.c lfs.c lfunc.c lgc.c linit.c liolib.c llex.c lmathlib.c lmem.c loadlib.c lobject.c lopcodes.c loslib.c lparser.c lstate.c lstring.c lstrlib.c ltable.c ltablib.c ltm.c lundump.c lutf8lib.c lvm.c lzio.c
+         lzio.c
+         lvm.c
+         lutf8lib.c
+         lundump.c
+         ltm.c
+         ltablib.c
+         ltable.c
+         lstrlib.c
+         lstring.c
+         lstate.c
+         lparser.c
+         loslib.c
+         lopcodes.c
+         lobject.c
+         loadlib.c
+         lmem.c
+         lmathlib.c
+         llex.c
+         liolib.c
+         linit.c
+         正在生成代码...
+         正在编译...
+         lgc.c
+         lfunc.c
+         lfs.c
+     1>f:\testcocos\csb2csdwin\lualib\lfs.c(302): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+         ldump.c
+         ldo.c
+         ldebug.c
+         ldblib.c
+         lctype.c
+         lcorolib.c
+         lcode.c
+         lbitlib.c
+         lbaselib.c
+         lauxlib.c
+         lapi.c
+     1>f:\testcocos\csb2csdwin\lualib\lapi.c(398): warning C4244: “return”: 从“lua_Unsigned”转换到“size_t”，可能丢失数据
+         buflib.c
+     1>f:\testcocos\csb2csdwin\lualib\buflib.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\testcocos\csb2csdwin\lualib\buflib.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\testcocos\csb2csdwin\lualib\buflib.c(52): warning C4018: “>=”: 有符号/无符号不匹配
+     1>f:\testcocos\csb2csdwin\lualib\buflib.c(67): warning C4018: “>=”: 有符号/无符号不匹配
+     1>f:\testcocos\csb2csdwin\lualib\buflib.c(160): warning C4244: “函数”: 从“lua_Integer”转换到“int”，可能丢失数据
+     1>f:\testcocos\csb2csdwin\lualib\buflib.c(243): warning C4244: “初始化”: 从“lua_Integer”转换到“uint32_t”，可能丢失数据
+     1>f:\testcocos\csb2csdwin\lualib\buflib.c(317): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+     1>f:\testcocos\csb2csdwin\lualib\buflib.c(318): warning C4244: “函数”: 从“int64_t”转换到“size_t”，可能丢失数据
+         正在生成代码...
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"F:\testCocos\csb2CsdWin\Debug\luaLib.lib" /NOLOGO Debug\buflib.obj
+         Debug\lapi.obj
+         Debug\lauxlib.obj
+         Debug\lbaselib.obj
+         Debug\lbitlib.obj
+         Debug\lcode.obj
+         Debug\lcorolib.obj
+         Debug\lctype.obj
+         Debug\ldblib.obj
+         Debug\ldebug.obj
+         Debug\ldo.obj
+         Debug\ldump.obj
+         Debug\lfs.obj
+         Debug\lfunc.obj
+         Debug\lgc.obj
+         Debug\linit.obj
+         Debug\liolib.obj
+         Debug\llex.obj
+         Debug\lmathlib.obj
+         Debug\lmem.obj
+         Debug\loadlib.obj
+         Debug\lobject.obj
+         Debug\lopcodes.obj
+         Debug\loslib.obj
+         Debug\lparser.obj
+         Debug\lstate.obj
+         Debug\lstring.obj
+         Debug\lstrlib.obj
+         Debug\ltable.obj
+         Debug\ltablib.obj
+         Debug\ltm.obj
+         Debug\lundump.obj
+         Debug\lutf8lib.obj
+         Debug\lvm.obj
+         Debug\lzio.obj
+         luaLib.vcxproj -> F:\testCocos\csb2CsdWin\Debug\luaLib.lib
+     1>已完成生成项目“F:\testCocos\csb2CsdWin\luaLib\luaLib.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.77

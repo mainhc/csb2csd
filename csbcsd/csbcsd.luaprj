@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Project Name="csbcsd.luaprj" >
+    <Filter Name="script" Directory=".\..\script" >
+        <LuaFile RelativePath=".\..\script\base.lua" />
+        <LuaFile RelativePath=".\..\script\config.lua" />
+        <LuaFile RelativePath=".\..\script\diff.lua" />
+        <LuaFile RelativePath=".\..\script\inspect.lua" />
+        <LuaFile RelativePath=".\..\script\lfb.lua" />
+        <LuaFile RelativePath=".\..\script\lfsx.lua" />
+        <LuaFile RelativePath=".\..\script\lily.lua" />
+        <LuaFile RelativePath=".\..\script\stringx.lua" />
+        <LuaFile RelativePath=".\..\script\xml.lua" />
+        <Filter Name="csb2csd" Directory=".\..\script\csb2csd" />
+    </Filter>
+</Project>
