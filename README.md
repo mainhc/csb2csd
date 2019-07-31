@@ -1,4 +1,6 @@
 # csb2csd
+所用 lua 脚本来自 https://github.com/DavidFeng/csb2csd  有部分修改
+
 Cococ studio csb2csd
 
 编译工程  Vs 2013
